@@ -27,6 +27,8 @@ ITAI_ML_FirstRepo_JohnPierre/
 - **Module 13** - ML Pipelines
 - **Module 14** - Real-World Applications
 
+**Note: Modules 1 & 2 were intentionally left out.**
+
 ## Prerequisites
 
 To run the notebooks and code in this repository, you'll need:
