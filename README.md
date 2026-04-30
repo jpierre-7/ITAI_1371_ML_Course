@@ -6,6 +6,7 @@ This repository contains coursework and projects for the Introduction to AI/Mach
 
 ```
 ITAI_ML_FirstRepo_JohnPierre/
+├── final_project/               # Folder containing my final project
 ├── midterm_project/             # Folder containing my (you guessed it) midterm project
 ├── modules/                     # Folder containing all modules covered in course
 └── README.md                    # This file
