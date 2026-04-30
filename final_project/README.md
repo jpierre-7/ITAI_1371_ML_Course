@@ -47,6 +47,8 @@ A machine learning project that classifies sleep disorders (None, Insomnia, Slee
 │   └── Sleep_health_and_lifestyle_dataset.csv
 ├── analysis.ipynb          # Main notebook
 └── README.md
+└── sleep_disorder_presentation.pptx
+└── sleep_lifestyle_project_outline.pdf
 ```
 
 ---
