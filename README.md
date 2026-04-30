@@ -13,6 +13,7 @@ ITAI_ML_FirstRepo_JohnPierre/
 
 ## Modules
 
+- **Module 2**: ML Tools
 - **Module 3**: ML Workflows and Types of Learning
 - **Module 4**: Working with Data and EDA
 - **Module 5**: Data Preparation and Feature Engineering
